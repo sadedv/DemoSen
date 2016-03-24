@@ -2,6 +2,10 @@ import java.io.*;
 import java.util.*;
 import java.util.concurrent.LinkedBlockingQueue;
 
+/**
+ * Main class
+ */
+
 public class Practice {
 
     static int limitSentencesForOneWord = 5;//количество предложений в тренеровке содержащих изучаемое слово
